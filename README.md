@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# FE-Tektok-Chat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
 
-## Available Scripts
+  <h3 align="center">Talagram Chat</h3>
+  <p align="center">
+    <image align="center" width="100" src='./readmeImage/logo.jpeg'/>
+  </p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✏️ About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Talagram chat is an app to help you to connect and chat with people around the world anywhere and everywhere !
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔖Build With
 
-### `npm test`
+- ReactJS
+- Bootstrap
+- Socket
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 How To Install?
 
-### `npm run build`
+- Clone This Repo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+https://github.com/easyManik/telegram-app-fe.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Install Module
 
-### `npm run eject`
+```
+npm install | npm i
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Type ` npm run start` To Start Website
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshot
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+| Login Page                                     | Register Page                                           |
+| ---------------------------------------------- | ------------------------------------------------------- |
+| ![Login](/readmeImage/login.jpeg "Login Page") | ![Register](/readmeImage/register.jpeg "Register Page") |
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+| Chat Page                                   | Detail Chat Page                                           |
+| ------------------------------------------- | ---------------------------------------------------------- |
+| ![Chat](/readmeImage/home.jpeg "Chat Page") | ![Profile Page](/readmeImage/chat.jpeg "Chat Detail Page") |
 
-## Learn More
+| Chat Option Page                                       | Window Option Page                                                          |
+| ------------------------------------------------------ | --------------------------------------------------------------------------- |
+| ![Menu](/readmeImage/optionhamburger.jpeg "Menu Page") | ![Window Option Page](/readmeImage/optiongroupchat.jpeg "Chat Detail Page") |
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+| Detail Chat Option Page                                         | Edit profile Page                                                       |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| ![Menu](/readmeImage/chatoption.jpeg "Detail Chat Option Page") | ![Edit Profile Page](/readmeImage/editprofile.jpeg "Edit Profile Page") |
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-### Analyzing the Bundle Size
+## ✍️ Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [@easyManik](https://github.com/easyManik)
 
-### Making a Progressive Web App
+## Link
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Backend](https://github.com/easyManik/telegram-app-be)
+- [Visit Project]()
